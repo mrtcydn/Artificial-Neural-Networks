@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(296,55): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(317,10): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(318,30): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(319,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(320,30): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(346,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(375,1): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(376,1): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(379,29): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(380,29): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(385,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(386,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(395,56): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(399,50): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(402,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(412,1): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(416,11): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(417,31): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(418,31): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(419,31): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(431,28): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat Can\source\repos\NN\NN\MyForm.h(432,37): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  NN.vcxproj -> C:\Users\Murat Can\source\repos\NN\Debug\NN.exe
